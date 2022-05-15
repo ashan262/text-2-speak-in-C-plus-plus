@@ -20,4 +20,4 @@ Then Text to speech is very simple : When ever you want to speak anything you ha
 3:	const char* charCommand=command.c_str();
 4:	system(charCommand);
 
-I reammended you to see the Full program in the 
+I reammended you to see the Full program in the https://github.com/Risky90/text-2-speak-in-C-plus-plus for complete Understanding. A star the repositery to incourage me to upload another usefull reop for you people.
